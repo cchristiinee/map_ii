@@ -1,1 +1,6 @@
-pandasnumpypathlibplotly.expressplotly.graph_objectsvoila
+pandas
+numpy
+pathlib
+plotly.express
+plotly
+voila
